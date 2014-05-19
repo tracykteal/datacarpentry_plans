@@ -53,6 +53,8 @@ Already in place:
 - first set of materials developed by SWC and adapted for NESCent workshop
 
 To be established:
+- A scientific advisory board (already have a good set with those who worked on 
+NESCent workshop)
 - Personnel for establishing workshop guidelines and workflow
 - Personnel for materials development and coordinating efforts
 - Train the trainer workshops to train many instructors so that they can host local
