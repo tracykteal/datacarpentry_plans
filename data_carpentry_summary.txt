@@ -1,0 +1,53 @@
+
+Data Carpentry
+
+The idea for Data Carpentry came out of an NSF BIO Centers COLLABIT working group with 
+representatives from SESYNC, NESCent, iDigBio, BEACON, NEON and iPlant. There was a shared 
+need across the BIO Centers for increased researcher knowledge in data management and 
+analysis and computational literacy. 
+
+We met in a breakout section to talk about developing a 'data and computational literacy'
+workshop. Many of the attendees had taken or taught Software 
+Carpentry workshops and knew it was a good model for developing material and training.
+
+Attending:
+People: Tracy Teal (lead) (BEACON), Shannon Oliver (iPlant), Mary Shelley (SESYNC), 
+Nicole Hopkins (iPlant), Hilmar Lapp (NESCent), 
+David Bryson (BEACON), Deborah Paul (iDigBio), Melissa Cragin (NSF observer)
+
+In this breakout, we set an overall objective and topics to cover
+
+Objectives for learning:
+We would like people to be able to retrieve, view, manipulate, analyze and store their's 
+and other's data in an open and reproducible way
+
+Notes from that meeting:
+https://etherpad.mozilla.org/kf0C6AhpBO
+https://etherpad.mozilla.org/dIrPrNU9Td
+
+In following COLLABIT calls and over email, we spent a lot of time working to decide 
+what topics and materials to teach and how to focus the workshop.
+
+Etherpad of discussions leading up to the workshop
+https://etherpad.mozilla.org/1GkFUBeTWN
+Google doc of discussion for the workshop
+https://docs.google.com/document/d/1_9AAX_gvonCz3LKuM0jNlCtlchut92TAg50Aep5slbU/
+
+We ran the first Data Carpentry at NESCent on May 8-9 with Karen Cranston, Tracy Teal,
+Ethan White and Hilmar Lapp as instructors.  Darren Boss (iPlant), Matt Collins (iDigBio), 
+Deb Paul (iDigBio), Mike Smorul (SESYNC) were assistant, with Deb Paul teaching an 
+short tutorial on OpenRefine as well.
+
+Workshop web site
+http://nescent.github.io/2014-05-08-datacarpentry/
+Course materials
+https://github.com/NESCent/2014-05-08-datacarpentry
+
+
+The workshop went well, with some important lessons learned, outlined in the blog post.
+We were also excited about the enthusiasm for the course in general. 
+
+Summaries of the workshop
+http://software-carpentry.org/blog/2014/05/our-first-data-carpentry-workshop.html
+https://storify.com/tracykteal/datacarpentry-2014-05-08
+

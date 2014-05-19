@@ -1,0 +1,75 @@
+Data Carpentry future
+
+With the success of the first Data Carpentry and the enthusiasm for the course in 
+general we're thinking about what's next for Data Carpentry.
+
+Each instructor has been contacted individually by email from many people, 
+there has been great interest over Twitter and in response to blog posts. 
+This interest has come from people 
+in biology, genomics, digital humanities, social sciences and libraries in particular.
+This interest has reflected a desire to take the course, teach the course or host
+workshops. 
+
+The challenge is therefore to meet these needs across many different locations and 
+domains of interest.
+
+What would success for Data Carpentry look like
+
+Help to train the next generation of researchers in good data analysis and management practices
+to enable individual research progress and open and reproducible research.
+
+Data Carpentry's aim is to teach these skills.
+If a researcher wants to take a Data Carpentry course, our hope it that we will be 
+able to provide that resource.
+
+This means that Data Carpentry hopes to have:
+
+- The ability to host workshops in many different locations, even to run
+them multiple times in the same location. 
+- Materials developed for domains of interest 
+- Materials in Python and R
+- A streamlined assessment where we can assess learning in a workshop and its effects
+as researchers progress through their careers
+- A forum for continued engagement on Data Carpentry post workshop
+- A set of resources where learners could look for more information on particular topics
+(SWC already has good online tutorials for many of these topics)
+- More advanced workshops - data visualization, more advanced R or Python for statistics
+
+
+Details:
+- A checklist for how to run a workshop 
+- An automated system for reminding workshop organizers when emails need to go out
+or other tasks need to be done
+- A registration system for workshops, with registration information going back to 
+organizers in an automated way
+
+
+
+How these needs can be met:
+
+Already in place:
+- github for the development and distribution of materials
+- online SWC tutorials on many topics
+- first set of materials developed by SWC and adapted for NESCent workshop
+
+To be established:
+- Personnel for establishing workshop guidelines and workflow
+- Personnel for materials development and coordinating efforts
+- Train the trainer workshops to train many instructors so that they can host local
+workshops
+- Instructors for train the trainer workshops
+- Personnel for organizing workshops 
+
+
+
+One idea is to run Data Carpentry almost like a franchise, with a strong train the 
+trainers component that would allow instructors to run many workshops locally, 
+reducing coordination efforts and travel costs for instructors. Many people feel 
+qualified to teach the materials covered in Data Carpentry with some training on 
+how the workshop should be taught. This differs somewhat from Software Carpentry, where
+the topics are perceived to be a bit more technical and local personell have less 
+confidence in their ability to teach the materials.
+
+
+
+
